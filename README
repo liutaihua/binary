@@ -1,0 +1,6 @@
+
+#### USAGE
+
+bufio增加了读写BigEndian的常见几个方法, 详见unit test
+
+bytes一个byte pool
